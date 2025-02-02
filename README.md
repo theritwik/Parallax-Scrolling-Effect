@@ -33,7 +33,9 @@ Contributions are welcome! Feel free to **fork the repository**, raise issues, o
 💬 **Feedback and suggestions are always welcome!** Let’s connect and discuss more about web development! 🚀 
 
 📩 Connect with Me
+
 🔗 LinkedIn: https://www.linkedin.com/in/ritwiksingh07
+
 💻 GitHub: https://github.com/theritwik
 
 💡 Feedback is always welcome! If you have any suggestions or improvements, feel free to open an issue or reach out. Let's build something amazing together! 🚀
